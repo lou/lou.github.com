@@ -1,0 +1,22 @@
+.hero-unit{
+  padding: 2em;
+}
+
+.muted{
+  color: #f9f9f9;
+}
+
+.hero-unit img{
+  float: left;
+  margin-right: 1em;
+  width: 50px;
+  height: 50px;
+}
+
+.hero-unit p{
+  margin-bottom: 2em;
+}
+
+.hero-unit span{
+  font-weight: bold;
+}
