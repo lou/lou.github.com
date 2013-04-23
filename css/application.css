@@ -17,7 +17,7 @@ body{
 }
 
 a{
-  transition: all 0.8s;
+  transition: color 0.8s;
 }
 
 li{
@@ -43,7 +43,7 @@ p{
 
 .social-network a,
 .social-network a i{
-  transition: all 0.8s;
+  transition: color 0.8s;
   text-decoration: none;
 }
 
