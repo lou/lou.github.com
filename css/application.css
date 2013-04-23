@@ -16,6 +16,10 @@ body{
   font-style: normal;
 }
 
+a{
+  transition: all 0.8s;
+}
+
 li{
   line-height: 1.5;
 }
@@ -37,7 +41,9 @@ p{
   margin-top: 3em;
 }
 
-.social-network a{
+.social-network a,
+.social-network a i{
+  transition: all 0.8s;
   text-decoration: none;
 }
 
