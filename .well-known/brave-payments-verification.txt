@@ -1,4 +1,4 @@
 This is a Brave Payments publisher verification file.
 
 Domain: lou.github.io
-Token: e07eed5d2923f15f40aa3b54401eb659f998fc71a7367d76f012bb27c1d03cd1
+Token: 103b4b59af626cc5880567c3f4135255e42d03ba3a74155e112b33d7b1308803
